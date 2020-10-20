@@ -1,0 +1,353 @@
+{
+    "Settings": {
+      "Admob_Settings": {
+        "is_override" : false,
+        "ads_loading_text": "Ads will loading...",
+        "default_ads": "startapp_ads",
+        "final_default_ads":"unity_ads",
+        "is_banner_ads": true,
+        "is_interstitial_ads": true,
+        "is_stream_player_banner_ads": true,
+        "facebook_ads": {
+          "ads_app_id_ios": "353151288785830",
+          "ads_app_id_android": "353151288785830",
+          "banner_ad_unit_id_ios": "353151288785830_353151742119118",
+          "banner_ad_unit_id_android": "353151288785830_353151742119118",
+          "interstitial_ad_unit_id_ios": "353151288785830_353152322119060",
+          "interstitial_ad_unit_id_android": "353151288785830_353152322119060",
+          "is_ads": false,
+          "is_banner_ads": false,
+          "is_interstitial_ads": false,
+          "is_initially_ads_container_visible":true,
+          "visibility_percentage": 0,
+          "is_illegal_interstitial_ads": false,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": false,
+          "is_legal_banner_ads": true
+        },
+        "google_ads": {
+          "ads_app_id_ios": "ca-app-pub-3940256099942544~1458002511",
+          "ads_app_id_android": "ca-app-pub-3940256099942544~3347511713",
+          "banner_ad_unit_id_ios": "ca-app-pub-3940256099942544/2934735716",
+          "banner_ad_unit_id_android": "ca-app-pub-3940256099942544/6300978111",
+          "interstitial_ad_unit_id_ios": "ca-app-pub-3940256099942544/4411468910",
+          "interstitial_ad_unit_id_android": "ca-app-pub-3940256099942544/1033173712",
+          "is_ads": true,
+          "is_banner_ads": true,
+          "is_interstitial_ads": true,
+          "is_initially_ads_container_visible":true,
+          "visibility_percentage": 10,
+          "is_illegal_interstitial_ads": false,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": false,
+          "is_legal_banner_ads": true
+        },
+        "startapp_ads": {
+          "ads_app_id_ios": "201571398",
+          "ads_app_id_android": "211764508",
+          "is_ads": true,
+          "is_banner_ads": true,
+          "is_interstitial_ads": true,
+          "is_initially_ads_container_visible":true,
+          "visibility_percentage": 5,
+          "is_illegal_interstitial_ads": false,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": false,
+          "is_legal_banner_ads": true
+        },
+        "custom_ads": {
+          "is_ads": true,
+          "is_banner_ads": true,
+          "is_interstitial_ads": true,
+          "is_initially_ads_container_visible":true,
+          "visibility_percentage": 5,
+          "is_illegal_interstitial_ads": false,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": false,
+          "is_legal_banner_ads": true,
+          "ads_list" :
+          [
+            {
+              "id" : 1,
+              "privacy_title" : "My Ads",
+              "title" : "Google Pay Earn Money",
+              "sub_title" : "Google Pay Earn Money",
+              "description" : "Join me on Earn App, a payments app by This App. Enter my code (Rb50s) and then make a payment. We'll each get ₹51!",
+              "banner_image" : "https://www.flashsaletricks.com/wp-content/uploads/2017/04/Chillr_Refer_Earn_Rs75_24April-1024x451.png",
+              "logo_image" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+              "redirect_url" : "https://gplinks.in/IoijtsbK",
+              "privacy_url" : "https://gplinks.in/IoijtsbK",
+              "banner_bg_color" : "0xffffffff",
+              "footer_bg_color" : "0xff666666",
+              "footer_button_color" : "0xff666666",
+              "go_button_text" : "GO",
+              "icon_bg_color" : "0xff000000",
+              "go_button_bg_color" : "0xffff0000",
+              "go_button_text_color" : "0xffffffff",
+              "ratings": 4.5,
+              "ratings_count":"12,300"
+            }
+          ]
+        }
+      },
+      "App_Update_Information":
+      {
+        "is_override" : false,
+
+        "is_popup_dialog": true,
+        "is_update_require":true,
+
+        "package_id":"com.tiktalk",
+        "download_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
+        "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
+        "is_system_browser":true,
+
+        "updated_version_code":1,
+
+        "filename":"livetalk.apk",
+        "title":"App Update",
+        "default_message":"Your App is Up to date.",
+        "log_message":"- Now latest tiktalk you have",
+        "downloading_message":"App Downloading",
+        "installing_message":"App Install"
+      },
+      "Inapp_Purchase_Settings" :
+      {
+        "is_override": false,
+        "class_name" : "com.allinone.purchase.MainActivity",
+        "purchase_package_id" : "com.allinone.purchase",
+        "purchase_package_id1" : "com.rutu.master.pockettv",
+        "download_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/All%20In%20One%20Purchase.apk",
+        "filename" : "All_In_One_Purchase.apk",
+        "purchase_title": "All In One Purchase",
+        "purchase_message": "If you want to purchase then you have to install Purchase App.\nand then try again to purchase from here once again.",
+        "website_url1" : "https://drive.google.com/uc?authuser=0&id=1WSfXT0SLzllfqgEYeFmfDd65YrNgYKQq&export=download",
+        "website_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/All%20In%20One%20Purchase.apk",
+        "is_system_browser":true,
+        "downloading_message": "App Downloading",
+        "installing_message": "App Install",
+        "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB",
+        "inapp_base64EncodedPublicKey_core" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhbxbwByaAeBtBOWnxKoYqIMcmgopIpgLi5G8bL62J1rKNntpV5ildIO0rZo8umb8KQHtxDg58Hevlb1gvPYVKRjTQTQCMJ99vzx7kkqwX1RUxVWuL5/Iixyrp3GgHdEb8YtVGDTN5hhLqgkCQ/iE52gMFC7UhU8dN7e+GWhsQsHfqhA9K6Xrh/jEv4pAjxN10kYXYDNvyxq7KA+j4d1qEbaJjUzKXbIeUTfNhueL+/IlMUKnTL1Z6h6ZzkUh3jsvzSbeWeWBoaEDh+xz7QdqsxUz+2JAwffYeLZMyFmfLciWdk8zZ7hVO47wDare3FGmC/lV2Xjv4bhQpc6Zzyv+vQIDAQAB"
+      },
+
+      "Start_Up_Popup":
+      {
+        "is_override" : false,
+        "is_start_up_popup" : true,
+        "reminder_code" : "1",
+        "mode": "web_and_video",
+        "is_system_browser": true,
+        "banner_url": "http://www.sixboxes.com/_customelements/uploadedResources/085624_community.jpg",
+        "full_title": "Pocket TV - Group (OFFICIAL)",
+        "description": "Here all pocket tv user can communicate and chat with other. So that you have to download TELEGRAM and join Pocket TV (OFFICIAL) group.",
+        "website_url": "https://t.me/joinchat/JOQ_XRbkuW3hZbj1N-YLmQ",
+        "thumbnail_url": "http://www.arenawp.com/wp-content/uploads/mo/thumb-monochrome-round-user-group-icon-vector.jpg"
+      },
+      
+      "Supports_Availability":
+      {
+        "is_override" : false,
+        "is_remove_ads_support":true,
+        "is_remove_ads_session_free_support":true,
+          "is_purchase_restore_support":true
+      },
+
+      "Remove_Ads_Support":
+      {
+        "is_override" : false,
+        "remove_ads_title": "Remove Ads Support",
+
+        "inapp_remove_ads_sku" : "com.pockettv.removeads",
+        "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\"\n\nIf you want to make ads free session then \"SESSION FREE\" and share app to your group and friends. It will automatically removed ads for current session only",
+
+        "remove_ads_banner_url": "https://ads-blocker.com/wp-content/uploads/2015/02/ads-blocker-logo.png",
+
+        "success_remove_ads_message": "Congratulations!\nNow Pocket TV is ADS FREE."
+      },
+
+      "Purchase_Restore_Support":
+      {
+        "is_override" : false,
+        "purchase_restore_title" : "Purchase Restore",
+        "purchase_restore_banner_url" : "",
+        "purchase_restore_message" : "If you purchased Previously?\n\nThen you have to press \"Restore\" Button to restore all purchase.",
+        "purchase_restore_success" : "Purchase restore success."
+      },
+
+      "Disclaimer_App":
+      {
+        "is_override" : false,
+        "is_disclaimer_app" : true,
+        "is_force_approved": true,
+        "disclaimer_title": "Disclaimer",
+        "disclaimer_message": "Pocket TV doesn't contain any built-in channels. you need to have playlist with TV channels in order to this app. it just IPTV player which manage all channels and playlist in well manner."
+      },
+
+      "About_App":
+      {
+        "is_override" : false,
+        "is_about_app" : true,
+        "about_title": "About",
+        "about_message": "Tiktalk is about to random calling app."
+      },
+
+      "Exit_Dialog":
+      {
+        "is_override" : false,
+        "exit_title": "Exit",
+        "exit_message": "Do you want to exit from App?"
+      },
+
+      "Rate_App":
+      {
+        "is_override" : false,
+        "is_rate_app" : true,
+        "package_id" : "com.rutu.master.pockettv",
+        "rate_app_url" : "https://play.google.com/store/apps/details?id=com.rutu.master.pockettv",
+        "rate_message" : "Please Rate us and promote us."
+      },
+
+      "App_Settings":
+      {
+        "is_override" : false,
+        "app_name" : "app_tic_call",
+        "server_address" : "192.168.1.104",
+        "port" : 8086,
+        "call_type" : "both",
+        "min_dialing_time" : 1,
+        "call_timeout" : 20,
+        "is_random_self_id":false,  
+        "fake_video_volume": 0,
+        "fake_call_list": ["tCAt8eEKPDc","tCAt8eEKPDc"],
+        "fake_call_block_list": ["tCAt8eEKPDc","tCAt8eEKPDc"],
+        "fake_call_playlist": ["PL4o29bINVT4EG_y-k5jGoOu3-Am8Nvi10","PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV"]
+      },
+
+      "More_Apps":
+      {
+        "is_override" : false,
+        "is_more_app" : true,
+        "developer_id" : "Pocket+TV+™",
+        "more_app_url" : "https://play.google.com/store/apps/developer?id=Pocket+IPTV+%E2%84%A2"
+      },
+
+      "Share_App":
+      {
+        "is_override" : false,
+        "is_share_app" : true,
+        "share_message_app": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
+        "share_message_iptv": "Share iptv url : ",
+        "share_message_link": "Share link url : "
+      },
+
+      "Official_Website":
+      {
+        "is_override" : false,
+        "is_official_website" : true,
+        "is_system_browser": false,
+        "official_website": "http://www.pocketiptv.com"
+      },
+
+      "Privacy_Policy":
+      {
+        "is_override" : false,
+        "is_privacy_policy" : true,
+        "is_system_browser": true,
+        "privacy_policy": "https://sites.google.com/view/livetalk-llc/privacy-policy"
+      },
+
+      "Terms_Of_Use":
+      {
+        "is_override" : false,
+        "is_terms_of_use" : true,
+        "is_system_browser": true,
+        "terms_of_use": "https://sites.google.com/view/livetalk-llc/tc"
+      },
+
+      "Splash_Screen":
+      {
+        "is_override" : false,
+        "registration_detail1": "",
+        "registration_detail": "LiveTalk LLC.® 2020",
+        "version_detail": "version : 1.0.0"
+      },
+
+      "Live_Support":
+      {
+        "is_override" : false,
+        "is_live_support" : true,
+        "fb_messenger_uri": "fb-messenger://user/",
+        "fb_messenger_id": "822625707789265",
+        "is_system_browser": true,
+        "live_support_url": "",
+        "banner_url": "https://www.revechat.com/wp-content/uploads/2015/09/24-7-live-chat-support.jpg",
+        "website_url": "",
+        "progress_downloading_message": "Downloading",
+        "progress_install_message": "Installing",
+        "application_package_id": "com.facebook.mlite",
+        "full_title": "Live Support App",
+        "application_download_url": "",
+        "description": "For Live Support,\n\nYou have to install this app after that you will be touch with us",
+        "thumbnail_url": "https://static.thenounproject.com/png/108459-200.png"
+      },
+
+      "User_Community_Support":
+      {
+        "is_override" : false,
+        "is_live_support" : true,
+        "tg_messenger_uri": "https://t.me/joinchat/",
+        "tg_messenger_id": "JOQ_XRbkuW3hZbj1N-YLmQ",
+        "is_system_browser": true,
+        "live_support_url": "",
+        "banner_url": "http://www.sixboxes.com/_customelements/uploadedResources/085624_community.jpg",
+        "website_url": "",
+        "progress_downloading_message": "Downloading",
+        "progress_install_message": "Installing",
+        "application_package_id": "org.telegram.messenger",
+        "full_title": "USer Community",
+        "application_download_url": "",
+        "description": "For User Community,\n\nYou have to install this app after that you will be touch with user group",
+        "thumbnail_url": "http://www.arenawp.com/wp-content/uploads/mo/thumb-monochrome-round-user-group-icon-vector.jpg"
+      },
+
+      "Feedback_Support":
+      {
+        "is_override" : false,
+        "is_feedback" : true,
+
+        "cc_email_id": "",
+        "email_id": "livetalk.llc@gmail.com",
+        "email_message": "Hi,\n\n\nYour Feedback Pocket TV Rocks! I would like to give you some feedback: ",
+        "email_subject": "Feedback on Pocket TV",
+
+        "feedback_title": "Send Feedback",
+        "feedback_message": "If you have any kind of query, Then mail us.\nWe will resolve it."
+      },
+
+      "Error_Report_Support":
+      {
+        "is_override" : false,
+        "is_error_report" : true,
+
+        "cc_email_id": "",
+        "email_id": "livetalk.llc@gmail.com"
+      },
+
+      "Social_Support":
+      {
+        "is_override" : false,
+        "is_social" : true,
+        "social_title" : "Social",
+        "social_message" : "Like and share post in social media.",
+        "facebook_page_url": "fb://page/822625707789265",
+        "facebook_url": "https://www.facebook.com/822625707789265",
+        "instagram_url": "",
+        "telegram_url": "https://t.me/joinchat/AAAAAEaGtlWVJGqn1l5RGw",
+        "twitter_url": "https://www.twitter.com/pockettv",
+        "youtube_url": "https://www.youtube.com/channel/UCUJZ5ViT8Pf554apqwwjFEg",
+        "google_plus_url": "",
+        "linkedin_url": "",
+        "linkedin_page_url": ""
+      }
+    }
+}

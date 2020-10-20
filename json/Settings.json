@@ -97,7 +97,7 @@
         "is_popup_dialog": true,
         "is_update_require":true,
 
-        "package_id":"com.tiktalk",
+        "package_id":"com.livetalk.llc",
         "download_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
         "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
         "is_system_browser":true,
@@ -107,7 +107,7 @@
         "filename":"livetalk.apk",
         "title":"App Update",
         "default_message":"Your App is Up to date.",
-        "log_message":"- Now latest tiktalk you have",
+        "log_message":"- Now latest LiveTalk you have",
         "downloading_message":"App Downloading",
         "installing_message":"App Install"
       },
@@ -188,7 +188,7 @@
         "is_override" : false,
         "is_about_app" : true,
         "about_title": "About",
-        "about_message": "Tiktalk is about to random calling app."
+        "about_message": "LiveTalk is about to random calling app."
       },
 
       "Exit_Dialog":

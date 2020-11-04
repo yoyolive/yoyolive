@@ -138,9 +138,11 @@
       "App_Settings": {
         "is_override": false,
         "app_name": "livetalk",
-        "server_address": "172.31.24.20",
+        "server_address": "65.0.32.43",
         "port": 8086,
-        "call_type": "both",
+        "call_type": "live",
+        "call_type1": "fake",
+        "call_type2": "both",
         "min_dialing_time": 1,
         "call_timeout": 20,
         "is_random_self_id": false,

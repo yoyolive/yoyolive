@@ -91,13 +91,13 @@
       },
       "App_Update_Information": {
         "is_override": false,
-        "is_popup_dialog": true,
-        "is_update_require": true,
+        "is_popup_dialog": false,
+        "is_update_require": false,
         "package_id": "com.livetalk.llc",
         "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
         "website_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
         "is_system_browser": true,
-        "updated_version_code": 1,
+        "updated_version_code": 2,
         "filename": "livetalk.apk",
         "title": "App Update",
         "default_message": "Your App is Up to date.",
@@ -194,7 +194,7 @@
         "is_override": false,
         "registration_detail1": "",
         "registration_detail": "LiveTalk LLC.® 2020",
-        "version_detail": "version : 1.0.0"
+        "version_detail": "version : 2.0.0"
       },
       "Error_Report_Support": {
         "is_override": false,

@@ -148,11 +148,9 @@
         "is_random_self_id": false,
         "fake_video_volume": 0,
         "fake_call_list": [
-          "tCAt8eEKPDc",
           "tCAt8eEKPDc"
         ],
         "fake_call_block_list": [
-          "tCAt8eEKPDc",
           "tCAt8eEKPDc"
         ],
         "fake_call_playlist": [
@@ -162,9 +160,9 @@
       },
       "More_Apps": {
         "is_override": false,
-        "is_more_app": false,
+        "is_more_app": true,
         "developer_id": "LiveTalk+LLC+™",
-        "more_app_url": "https://play.google.com/store/apps/developer?id=LiveTalk+LLC+%E2%84%A2"
+        "more_app_url": "https://play.google.com/store/apps/developer?id=LiveTalk+LLC."
       },
       "Share_App": {
         "is_override": false,

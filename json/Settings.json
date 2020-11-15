@@ -147,7 +147,7 @@
         "min_dialing_time": 1,
         "call_timeout": 20,
         "is_random_self_id": false,
-        "fake_video_volume": 0,
+        "fake_video_volume": 0.1,
         "fake_call_list": [
           "tCAt8eEKPDc"
         ],

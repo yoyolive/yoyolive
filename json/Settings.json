@@ -140,7 +140,7 @@
         "app_name": "livetalk",
         "server_address": "65.0.32.43",
         "port": 8086,
-        "call_type": "live",
+        "call_type": "both",
         "call_type1": "fake",
         "call_type2": "both",
         "call_type3": "live",
@@ -155,8 +155,7 @@
           "tCAt8eEKPDc"
         ],
         "fake_call_playlist": [
-          "PLSL0f4PeBcXOpfHWW1nQp4h0Pgo-hKSfU",
-          "PLSL0f4PeBcXPYfLPmUpRHs3qhgxH7Hfmv"
+          "PLueIxbNLGRc9FZcYO62E0qKQYL3QTgDwl"
         ]
       },
       "More_Apps": {

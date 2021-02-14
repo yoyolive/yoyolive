@@ -3,6 +3,7 @@
       "Admob_Settings": {
         "is_override": false,
         "ads_loading_text": "Ads will loading...",
+        "ads_loading_delay": 1000,
         "default_ads": "startapp_ads",
         "final_default_ads": "unity_ads",
         "is_banner_ads": false,

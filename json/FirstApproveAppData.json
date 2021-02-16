@@ -2,7 +2,7 @@
  "App_Data": {
         "is_override": false,
         "app_name": "livetalk",
-        "server_address": "13.233.96.91",
+        "server_address": "13.127.151.82",
         "port": 8086,
         "call_type": "live",
         "min_dialing_time": 1,

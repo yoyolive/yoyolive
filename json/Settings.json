@@ -1,206 +1,246 @@
 {
-    "Settings": {
-      "Admob_Settings": {
-        "is_override": false,
-        "ads_loading_text": "Ads will loading...",
-        "ads_loading_delay": 1000,
-        "default_ads": "facebook_ads",
-        "final_default_ads": "google_ads",
+  "Settings": {
+    "Admob_Settings": {
+      "is_override": false,
+      "ads_loading_text": "Ads will loading...",
+      "ads_loading_delay": 1000,
+      "default_ads": "google_ads",
+      "final_default_ads": "facebook_ads",
+      "is_banner_ads": true,
+      "is_interstitial_ads": true,
+      "is_stream_player_banner_ads": true,
+      "facebook_ads": {
+        "ads_app_id_ios": "398619947913784",
+        "ads_app_id_android": "398619947913784",
+        "banner_ad_unit_id_ios": "353151288785830_353151742119118",
+        "banner_ad_unit_id_android": "723879258545940_723883178545548",
+        "interstitial_ad_unit_id_ios": "353151288785830_353152322119060",
+        "interstitial_ad_unit_id_android": "723879258545940_723883635212169",
+        "is_ads": true,
         "is_banner_ads": true,
         "is_interstitial_ads": true,
-        "is_stream_player_banner_ads": true,
-        "facebook_ads": {
-          "ads_app_id_ios": "398619947913784",
-          "ads_app_id_android": "398619947913784",
-          "banner_ad_unit_id_ios": "353151288785830_353151742119118",
-          "banner_ad_unit_id_android": "723879258545940_723883178545548",
-          "interstitial_ad_unit_id_ios": "353151288785830_353152322119060",
-          "interstitial_ad_unit_id_android": "723879258545940_723883635212169",
-          "is_ads": true,
-          "is_banner_ads": true,
-          "is_interstitial_ads": true,
-          "is_initially_ads_container_visible": true,
-          "visibility_percentage": 100,
-          "is_illegal_interstitial_ads": false,
-          "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": false,
-          "is_legal_banner_ads": true
-        },
-        "google_ads": {
-          "ads_app_id_ios": "ca-app-pub-3940256099942544~1458002511",
-          "ads_app_id_android": "ca-app-pub-2809733118839896~4860332483",
-          "banner_ad_unit_id_ios": "ca-app-pub-3940256099942544/2934735716",
-          "banner_ad_unit_id_android": "ca-app-pub-2809733118839896/4218168804",
-          "interstitial_ad_unit_id_ios": "ca-app-pub-3940256099942544/4411468910",
-          "interstitial_ad_unit_id_android": "ca-app-pub-2809733118839896/9989370237",
-          "is_ads": true,
-          "is_banner_ads": true,
-          "is_interstitial_ads": true,
-          "is_initially_ads_container_visible": true,
-          "visibility_percentage": 1,
-          "is_illegal_interstitial_ads": false,
-          "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": false,
-          "is_legal_banner_ads": true
-        },
-        "startapp_ads": {
-          "ads_app_id_ios": "201571398",
-          "ads_app_id_android": "211764508",
-          "is_ads": true,
-          "is_banner_ads": true,
-          "is_interstitial_ads": true,
-          "is_initially_ads_container_visible": true,
-          "visibility_percentage": 1,
-          "is_illegal_interstitial_ads": true,
-          "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": true,
-          "is_legal_banner_ads": true
-        },
-        "custom_ads": {
-          "is_ads": false,
-          "is_banner_ads": false,
-          "is_interstitial_ads": false,
-          "is_initially_ads_container_visible": true,
-          "visibility_percentage": 0,
-          "is_illegal_interstitial_ads": false,
-          "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": false,
-          "is_legal_banner_ads": true,
-          "ads_list": [
-            {
-              "id": 1,
-              "privacy_title": "My Ads",
-              "title": "Google Pay Earn Money",
-              "sub_title": "Google Pay Earn Money",
-              "description": "Join me on Earn App, a payments app by This App. Enter my code (Rb50s) and then make a payment. We'll each get ₹51!",
-              "banner_image": "https://www.flashsaletricks.com/wp-content/uploads/2017/04/Chillr_Refer_Earn_Rs75_24April-1024x451.png",
-              "logo_image": "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
-              "redirect_url": "https://gplinks.in/IoijtsbK",
-              "privacy_url": "https://gplinks.in/IoijtsbK",
-              "banner_bg_color": "0xffffffff",
-              "footer_bg_color": "0xff666666",
-              "footer_button_color": "0xff666666",
-              "go_button_text": "GO",
-              "icon_bg_color": "0xff000000",
-              "go_button_bg_color": "0xffff0000",
-              "go_button_text_color": "0xffffffff",
-              "ratings": 4.5,
-              "ratings_count": "12,300"
-            }
-          ]
-        }
+        "is_initially_ads_container_visible": true,
+        "visibility_percentage": 50,
+        "is_illegal_interstitial_ads": false,
+        "is_legal_interstitial_ads": true,
+        "is_illegal_banner_ads": false,
+        "is_legal_banner_ads": true
       },
-      "App_Update_Information": {
-        "is_override": false,
-        "is_popup_dialog": false,
-        "is_update_require": false,
-        "package_id": "com.livetalk.llc",
-        "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
-        "website_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
-        "is_system_browser": true,
-        "updated_version_code": 2,
-        "filename": "livetalk.apk",
-        "title": "App Update",
-        "default_message": "Your App is Up to date.",
-        "log_message": "- Now latest LiveTalk you have",
-        "downloading_message": "App Downloading",
-        "installing_message": "App Install"
+      "google_ads": {
+        "ads_app_id_ios": "ca-app-pub-3940256099942544~1458002511",
+        "ads_app_id_android": "ca-app-pub-2809733118839896~4860332483",
+        "banner_ad_unit_id_ios": "ca-app-pub-3940256099942544/2934735716",
+        "banner_ad_unit_id_android": "ca-app-pub-2809733118839896/4218168804",
+        "interstitial_ad_unit_id_ios": "ca-app-pub-3940256099942544/4411468910",
+        "interstitial_ad_unit_id_android": "ca-app-pub-2809733118839896/9989370237",
+        "is_ads": true,
+        "is_banner_ads": true,
+        "is_interstitial_ads": true,
+        "is_initially_ads_container_visible": true,
+        "visibility_percentage": 1,
+        "is_illegal_interstitial_ads": false,
+        "is_legal_interstitial_ads": true,
+        "is_illegal_banner_ads": false,
+        "is_legal_banner_ads": true
       },
-      "Start_Up_Popup": {
-        "is_override": false,
-        "is_start_up_popup": false,
-        "reminder_code": "1",
-        "mode": "web_and_video",
-        "is_system_browser": true,
-        "banner_url": "http://www.sixboxes.com/_customelements/uploadedResources/085624_community.jpg",
-        "full_title": "LiveTalk - Group (OFFICIAL)",
-        "description": "Here all LiveTalk user can communicate and chat with other. So that you have to download TELEGRAM and join LiveTalk (OFFICIAL) group.",
-        "website_url": "https://t.me/joinchat/JOQ_XRbkuW3hZbj1N-YLmQ",
-        "thumbnail_url": "http://www.arenawp.com/wp-content/uploads/mo/thumb-monochrome-round-user-group-icon-vector.jpg"
+      "startapp_ads": {
+        "ads_app_id_ios": "201571398",
+        "ads_app_id_android": "211764508",
+        "is_ads": true,
+        "is_banner_ads": true,
+        "is_interstitial_ads": true,
+        "is_initially_ads_container_visible": true,
+        "visibility_percentage": 50,
+        "is_illegal_interstitial_ads": true,
+        "is_legal_interstitial_ads": true,
+        "is_illegal_banner_ads": true,
+        "is_legal_banner_ads": true
       },
-      "About_App": {
-        "is_override": false,
-        "is_about_app": true,
-        "about_title": "About",
-        "about_message": "LiveTalk is about to random calling app."
-      },
-      "Exit_Dialog": {
-        "is_override": false,
-        "exit_title": "Exit",
-        "exit_message": "Do you want to exit from App?"
-      },
-      "Rate_App": {
-        "is_override": false,
-        "is_rate_app": true,
-        "package_id": "com.livetalk.llc",
-        "rate_app_url": "https://play.google.com/store/apps/details?id=com.livetalk.llc",
-        "rate_message": "Please Rate us and promote us."
-      },
-      "App_Settings": {
-        "is_override": false,
-        "app_name": "livetalk",
-        "server_address": "65.0.32.43",
-        "port": 8086,
-        "call_type": "both",
-        "call_type1": "fake",
-        "call_type2": "both",
-        "call_type3": "live",
-        "min_dialing_time": 1,
-        "call_timeout": 20,
-        "is_random_self_id": false,
-        "fake_video_volume": 0.1,
-        "fake_call_list": [
-          "tCAt8eEKPDc"
-        ],
-        "fake_call_block_list": [
-          "tCAt8eEKPDc"
-        ],
-        "fake_call_playlist": [
-          "PLKTYIE8svIg3ChZTbuFcs1AISxcpf6Nku",
-          "PLrb98WeJ5JMNBmupxrdQXSnjp9NNw1b3k"
+      "custom_ads": {
+        "is_ads": false,
+        "is_banner_ads": false,
+        "is_interstitial_ads": false,
+        "is_initially_ads_container_visible": true,
+        "visibility_percentage": 1,
+        "is_illegal_interstitial_ads": false,
+        "is_legal_interstitial_ads": true,
+        "is_illegal_banner_ads": false,
+        "is_legal_banner_ads": true,
+        "ads_list": [
+          {
+            "id": 1,
+            "privacy_title": "My Ads",
+            "title": "Pocket IPTV - Free Live TV Player (PRO)",
+            "sub_title": "IPTV Player",
+            "description": "Pocket IPTV PRO brings you an exciting world of entertainment into your Any Android Device. This is most recommended IPTV player ever.\n\nThis App is Media Player App For Android TV, Android Phone and Android Tab. Fully customized for OTT Service Providers. Pocket IPTV pro is a complete user defined Advanced IPTV solutions for live and non-live TV/stream.\n\nIf you are using VLC Player to watch TV on your PC then this app is for you.\n\nEasy Step :\n\n1. Insert playlist url (you will get it from quick Google search will give you all the links you need or you will get it from IPTV Forum with extension .m3u, .pls, .m3u8, .rutu, .json & .xspf ) or you can find playlist file from your storage or scan playlist by QR Code.\n2. It will automatically load playlist in well manner.\n3. Enjoy :)\n\n\nImportant:\n\n- We are not offering any kind of IPTV services like IPTV subscriptions, streams.\n- The user has to contact the TV Service Provider for Playlist ( .m3u, .pls, .m3u8, .rutu, .json & .xspf file / URL )\n- The user must have your own content, this is just a Pocket IPTV app that provides the platform to play the content.",
+            "banner_image": "https://lh3.googleusercontent.com/vyg6JLTCXkUy6X90MUcJZrTOUAyGWzwTtU5c1uRtiVgR_KO5NaLRkmJZDLqDEpY1A-g",
+            "logo_image": "https://play-lh.googleusercontent.com/DviEA28-3k_q7mb1mbF8ZMRdYNRmqEGYMzQ3SJnSdEo5hRkFmxgpr2uKb1z8wnsCpcU=s180-rw",
+            "redirect_url": "https://play.google.com/store/apps/details?id=com.pocketiptv",
+            "privacy_url": "https://sites.google.com/view/livetalk-llc/privacy-policy",
+            "banner_bg_color": "0xffffffff",
+            "footer_bg_color": "0xff666666",
+            "footer_button_color": "0xff666666",
+            "go_button_text": "GO",
+            "icon_bg_color": "0xff000000",
+            "go_button_bg_color": "0xffff0000",
+            "go_button_text_color": "0xffffffff",
+            "ratings": 3.9,
+            "ratings_count": "442"
+          },
+          {
+            "id": 2,
+            "privacy_title": "My Ads",
+            "title": "India - Free Live TV (Show, Sports, Entertainment)",
+            "sub_title": "Live TV online.",
+            "description": "Indian - Live TV is an application that allows you to watch all world live Sports, Dramas, Shows, Entertainment anytime and anywhere on any smart phone/mobile..\n\nIndian - Live TV app for watching Live TV Channels like On World's Most Popular app.\n• Live Sports (Live Cricket, Live Football, Live Racing, Live Entertainment Programs, Many More…)\n• Worlds Live Entertainment (Worldwide disease and issues, Politics, Debate shows…)\n• Entertainments (Music, Live Radio , Reality Shows and all District's Cities Local TV Channels)\n\nThe continuous update of the list of stations will provide better quality and responsiveness to solve any problem.",
+            "banner_image": "https://play-lh.googleusercontent.com/jUkg1fSX9cy4F7MVyVY-v9jp3xdWHZ6pzRXjxXksZB-eVdtIE2-qzZdn5mp_WKdgYeg",
+            "logo_image": "https://play-lh.googleusercontent.com/vgl19gTHQxeqFw_2kQJIhLfQTuV4V60xQ7rOvym-DUsiGlPgfBXZ0Uf-bIkc2zP7ng=s180-rw",
+            "redirect_url": "https://play.google.com/store/apps/details?id=com.tvgram.indialivetv",
+            "privacy_url": "https://sites.google.com/view/india-live-tv/home",
+            "banner_bg_color": "0xffffffff",
+            "footer_bg_color": "0xff666666",
+            "footer_button_color": "0xff666666",
+            "go_button_text": "GO",
+            "icon_bg_color": "0xff000000",
+            "go_button_bg_color": "0xffff0000",
+            "go_button_text_color": "0xffffffff",
+            "ratings": 3.9,
+            "ratings_count": "442"
+          },
+          {
+            "id": 3,
+            "privacy_title": "My Ads",
+            "title": "Spanish - Free Live TV (Show,Sports,Entertainment)",
+            "sub_title": "Live TV online.",
+            "description": "Spanish - Live TV is an application that allows you to watch all world live Entertainment, Sports, Dramas, Shows, Entertainment anytime and anywhere on any smart phone/mobile and smart TV.\n\nSpanish - Live TV app for watching Live TV Channels like On World's Most Popular app.\n• Live Sports (Live Cricket, Live Football, Live Racing, Live Entertainment Programs, Many More…)\n• Worlds Live Entertainment (Worldwide disease and issues, Politics, Debate shows…)\n• Entertainments (Music, Live Radio, Reality Shows and all District's Cities Local TV Channels)\nThe continuous update of the list of stations will provide better quality and responsiveness to solve any problem.",
+            "banner_image": "https://play-lh.googleusercontent.com/Z5TOSShWV4wJp-3ZX8nHV2wvjaltrAmsKsn2qNo0vgXDa-67qZlrQVtIdWzgBXYMcWQ=s180-rw",
+            "logo_image": "https://play-lh.googleusercontent.com/Z5TOSShWV4wJp-3ZX8nHV2wvjaltrAmsKsn2qNo0vgXDa-67qZlrQVtIdWzgBXYMcWQ=s180-rw",
+            "redirect_url": "https://play.google.com/store/apps/details?id=com.tvgram.indialivetv",
+            "privacy_url": "https://sites.google.com/view/india-live-tv/home",
+            "banner_bg_color": "0xffffffff",
+            "footer_bg_color": "0xff666666",
+            "footer_button_color": "0xff666666",
+            "go_button_text": "GO",
+            "icon_bg_color": "0xff000000",
+            "go_button_bg_color": "0xffff0000",
+            "go_button_text_color": "0xffffffff",
+            "ratings": 3.9,
+            "ratings_count": "442"
+          }
         ]
-      },
-      "More_Apps": {
-        "is_override": false,
-        "is_more_app": true,
-        "developer_id": "LiveTalk+LLC+™",
-        "more_app_url": "https://play.google.com/store/apps/developer?id=LiveTalk+LLC."
-      },
-      "Share_App": {
-        "is_override": false,
-        "is_share_app": true,
-        "share_message_app": "Discover new people and connect to them through live talk by download LiveTalk app from : https://play.google.com/store/apps/details?id=com.livetalk.llc",
-        "share_message_link": "Share link url : "
-      },
-      "Official_Website": {
-        "is_override": false,
-        "is_official_website": false,
-        "is_system_browser": false,
-        "official_website": "http://www.livetalkllc.com"
-      },
-      "Privacy_Policy": {
-        "is_override": false,
-        "is_privacy_policy": true,
-        "is_system_browser": true,
-        "privacy_policy": "https://sites.google.com/view/livetalk-llc/privacy-policy"
-      },
-      "Terms_Of_Use": {
-        "is_override": false,
-        "is_terms_of_use": true,
-        "is_system_browser": true,
-        "terms_of_use": "https://sites.google.com/view/livetalk-llc/tc"
-      },
-      "Splash_Screen": {
-        "is_override": false,
-        "registration_detail1": "",
-        "registration_detail": "LiveTalk LLC.® 2020",
-        "version_detail": "version : 2.0.0"
-      },
-      "Error_Report_Support": {
-        "is_override": false,
-        "is_error_report": true,
-        "cc_email_id": "",
-        "email_id": "livetalk.llc@gmail.com"
       }
+    },
+    "App_Update_Information": {
+      "is_override": false,
+      "is_popup_dialog": false,
+      "is_update_require": false,
+      "package_id": "com.livetalk.llc",
+      "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
+      "website_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
+      "is_system_browser": true,
+      "updated_version_code": 3,
+      "filename": "livetalk.apk",
+      "title": "App Update",
+      "default_message": "Your App is Up to date.",
+      "log_message": "- Now latest LiveTalk you have",
+      "downloading_message": "App Downloading",
+      "installing_message": "App Install"
+    },
+    "Start_Up_Popup": {
+      "is_override": false,
+      "is_start_up_popup": false,
+      "reminder_code": "1",
+      "mode": "web_and_video",
+      "is_system_browser": true,
+      "banner_url": "http://www.sixboxes.com/_customelements/uploadedResources/085624_community.jpg",
+      "full_title": "LiveTalk - Group (OFFICIAL)",
+      "description": "Here all LiveTalk user can communicate and chat with other. So that you have to download TELEGRAM and join LiveTalk (OFFICIAL) group.",
+      "website_url": "https://t.me/joinchat/JOQ_XRbkuW3hZbj1N-YLmQ",
+      "thumbnail_url": "http://www.arenawp.com/wp-content/uploads/mo/thumb-monochrome-round-user-group-icon-vector.jpg"
+    },
+    "About_App": {
+      "is_override": false,
+      "is_about_app": true,
+      "about_title": "About",
+      "about_message": "LiveTalk is about to random calling app."
+    },
+    "Exit_Dialog": {
+      "is_override": false,
+      "exit_title": "Exit",
+      "exit_message": "Do you want to exit from App?"
+    },
+    "Rate_App": {
+      "is_override": false,
+      "is_rate_app": true,
+      "package_id": "com.livetalk.llc",
+      "rate_app_url": "https://play.google.com/store/apps/details?id=com.livetalk.llc",
+      "rate_message": "Please Rate us and promote us."
+    },
+    "App_Settings": {
+      "is_override": false,
+      "app_name": "livetalk",
+      "server_address": "65.0.32.43",
+      "port": 8086,
+      "call_type": "both",
+      "call_type1": "fake",
+      "call_type2": "both",
+      "call_type3": "live",
+      "min_dialing_time": 1,
+      "call_timeout": 20,
+      "is_random_self_id": false,
+      "fake_video_volume": 0.1,
+      "fake_call_list": [
+        "tCAt8eEKPDc"
+      ],
+      "fake_call_block_list": [
+        "tCAt8eEKPDc"
+      ],
+      "fake_call_playlist": [
+        "PLKTYIE8svIg3ChZTbuFcs1AISxcpf6Nku",
+        "PLrb98WeJ5JMNBmupxrdQXSnjp9NNw1b3k"
+      ]
+    },
+    "More_Apps": {
+      "is_override": false,
+      "is_more_app": true,
+      "developer_id": "LiveTalk+LLC+™",
+      "more_app_url": "https://play.google.com/store/apps/developer?id=LiveTalk+LLC."
+    },
+    "Share_App": {
+      "is_override": false,
+      "is_share_app": true,
+      "share_message_app": "Discover new people and connect to them through live talk by download LiveTalk app from : https://play.google.com/store/apps/details?id=com.livetalk.llc",
+      "share_message_link": "Share link url : "
+    },
+    "Official_Website": {
+      "is_override": false,
+      "is_official_website": false,
+      "is_system_browser": false,
+      "official_website": "http://www.livetalkllc.com"
+    },
+    "Privacy_Policy": {
+      "is_override": false,
+      "is_privacy_policy": true,
+      "is_system_browser": true,
+      "privacy_policy": "https://sites.google.com/view/livetalk-llc/privacy-policy"
+    },
+    "Terms_Of_Use": {
+      "is_override": false,
+      "is_terms_of_use": true,
+      "is_system_browser": true,
+      "terms_of_use": "https://sites.google.com/view/livetalk-llc/tc"
+    },
+    "Splash_Screen": {
+      "is_override": false,
+      "registration_detail1": "",
+      "registration_detail": "LiveTalk LLC.® 2020",
+      "version_detail": "version : 3.0.0"
+    },
+    "Error_Report_Support": {
+      "is_override": false,
+      "is_error_report": true,
+      "cc_email_id": "",
+      "email_id": "livetalk.llc@gmail.com"
     }
+  }
 }

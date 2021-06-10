@@ -22,8 +22,8 @@
         ],
         "socket_server_address":"http://15.207.109.204:8080",
         "youtube_to_mp4_api":"http://15.207.109.204:8081/imo_youtube_to_mp4?youtube_id=<<youtube_id>>",
-        "percentage_of_live_call":50,
-        "possible_percentage_server_side":100,
+        "percentage_of_live_call":75,
+        "possible_percentage_server_side":50,
         "live_call_duration_seconds":60,
         "call_timeout_offer_dialog":{
          "is_show": true,

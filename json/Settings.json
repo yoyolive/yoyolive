@@ -30,9 +30,9 @@
         "ads_app_id_ios": "ca-app-pub-3940256099942544~1458002511",
         "ads_app_id_android": "ca-app-pub-2809733118839896~4860332483",
         "banner_ad_unit_id_ios": "ca-app-pub-3940256099942544/2934735716",
-        "banner_ad_unit_id_android": "/22387492205,22499930938/com.livetalk.llc.Banner0.1626407517",
+        "banner_ad_unit_id_android": "/22387492205,22499930938/com.yoyolive.llc.Banner0.1626407517",
         "interstitial_ad_unit_id_ios": "ca-app-pub-3940256099942544/4411468910",
-        "interstitial_ad_unit_id_android": "/22387492205,22499930938/com.livetalk.llc.Interstitial0.1626407576",
+        "interstitial_ad_unit_id_android": "/22387492205,22499930938/com.yoyolive.llc.Interstitial0.1626407576",
         "is_ads": true,
         "is_banner_ads": true,
         "is_interstitial_ads": true,
@@ -76,7 +76,7 @@
             "banner_image": "https://lh3.googleusercontent.com/vyg6JLTCXkUy6X90MUcJZrTOUAyGWzwTtU5c1uRtiVgR_KO5NaLRkmJZDLqDEpY1A-g",
             "logo_image": "https://play-lh.googleusercontent.com/DviEA28-3k_q7mb1mbF8ZMRdYNRmqEGYMzQ3SJnSdEo5hRkFmxgpr2uKb1z8wnsCpcU=s180-rw",
             "redirect_url": "https://play.google.com/store/apps/details?id=com.pocketiptv",
-            "privacy_url": "https://sites.google.com/view/livetalk-llc/privacy-policy",
+            "privacy_url": "https://sites.google.com/view/yoyolive-llc/privacy-policy",
             "banner_bg_color": "0xffffffff",
             "footer_bg_color": "0xff666666",
             "footer_button_color": "0xff666666",
@@ -134,15 +134,15 @@
       "is_override": false,
       "is_popup_dialog": false,
       "is_update_require": false,
-      "package_id": "com.livetalk.llc",
+      "package_id": "com.yoyolive.llc",
       "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
       "website_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
       "is_system_browser": true,
       "updated_version_code": 4,
-      "filename": "livetalk.apk",
+      "filename": "yoyolive.apk",
       "title": "App Update",
       "default_message": "Your App is Up to date.",
-      "log_message": "- Now latest LiveTalk you have",
+      "log_message": "- Now latest YOYO Live you have",
       "downloading_message": "App Downloading",
       "installing_message": "App Install"
     },
@@ -153,8 +153,8 @@
       "mode": "web_and_video",
       "is_system_browser": true,
       "banner_url": "http://www.sixboxes.com/_customelements/uploadedResources/085624_community.jpg",
-      "full_title": "LiveTalk - Group (OFFICIAL)",
-      "description": "Here all LiveTalk user can communicate and chat with other. So that you have to download TELEGRAM and join LiveTalk (OFFICIAL) group.",
+      "full_title": "YOYO Live - Group (OFFICIAL)",
+      "description": "Here all YOYO Live user can communicate and chat with other. So that you have to download TELEGRAM and join LiveTalk (OFFICIAL) group.",
       "website_url": "https://t.me/joinchat/JOQ_XRbkuW3hZbj1N-YLmQ",
       "thumbnail_url": "http://www.arenawp.com/wp-content/uploads/mo/thumb-monochrome-round-user-group-icon-vector.jpg"
     },
@@ -162,7 +162,7 @@
       "is_override": false,
       "is_about_app": true,
       "about_title": "About",
-      "about_message": "LiveTalk is about to random calling app."
+      "about_message": "YOYO Live is about to random calling app."
     },
     "Exit_Dialog": {
       "is_override": false,
@@ -172,13 +172,13 @@
     "Rate_App": {
       "is_override": false,
       "is_rate_app": true,
-      "package_id": "com.livetalk.llc",
-      "rate_app_url": "https://play.google.com/store/apps/details?id=com.livetalk.llc",
+      "package_id": "com.yoyolive.llc",
+      "rate_app_url": "https://play.google.com/store/apps/details?id=com.yoyolive.llc",
       "rate_message": "Please Rate us and promote us."
     },
     "App_Settings": {
       "is_override": false,
-      "app_name": "livetalk",
+      "app_name": "yoyolive",
       "server_address": "52.66.251.119",
       "port": 8086,
       "call_type": "both",
@@ -203,55 +203,55 @@
     "More_Apps": {
       "is_override": false,
       "is_more_app": true,
-      "developer_id": "LiveTalk+LLC+™",
-      "more_app_url": "https://play.google.com/store/apps/developer?id=LiveTalk+LLC."
+      "developer_id": "YOYOLive+LLC+™",
+      "more_app_url": "https://play.google.com/store/apps/developer?id=YOYOLive+LLC."
     },
     "Share_App": {
       "is_override": false,
       "is_share_app": true,
-      "share_message_app": "Discover new people and connect to them through live talk by download LiveTalk app from : https://play.google.com/store/apps/details?id=com.livetalk.llc",
+      "share_message_app": "Discover new people and connect to them through live talk by download YOYO Live app from : https://play.google.com/store/apps/details?id=com.yoyolive.llc",
       "share_message_link": "Share link url : "
     },
     "Official_Website": {
       "is_override": false,
       "is_official_website": false,
       "is_system_browser": false,
-      "official_website": "http://www.livetalkllc.com"
+      "official_website": "http://www.yoyolive.com"
     },
     "Privacy_Policy": {
       "is_override": false,
       "is_privacy_policy": true,
       "is_system_browser": true,
-      "privacy_policy": "https://sites.google.com/view/livetalk-llc/privacy-policy"
+      "privacy_policy": "https://sites.google.com/view/yoyolive-llc/privacy-policy"
     },
     "Terms_Of_Use": {
       "is_override": false,
       "is_terms_of_use": true,
       "is_system_browser": true,
-      "terms_of_use": "https://sites.google.com/view/livetalk-llc/tc"
+      "terms_of_use": "https://sites.google.com/view/yoyolive-llc/tc"
     },
     "Splash_Screen": {
       "is_override": false,
       "registration_detail1": "",
-      "registration_detail": "LiveTalk LLC.® 2020",
+      "registration_detail": "YOYO Live LLC.® 2020",
       "version_detail": "version : 4.0.0"
     },
     "Error_Report_Support": {
       "is_override": false,
       "is_error_report": true,
       "cc_email_id": "",
-      "email_id": "livetalk.llc@gmail.com"
+      "email_id": "yoyolive.llc@gmail.com"
     },
     "Feedback_Support":
     {
     "is_override" : false,
     "is_feedback" : true,
     "cc_email_id": "",
-    "email_id": "livetalk.llc@gmail.com",
-    "feedback_title": "Feedback on Livetalk",
-    "feedback_message": "Hi,\n\n\nYour Feedback Livetalk! I would like to give you some feedback:",
-    "email_subject": "Feedback on Livetalk",
-    "email_message": "Hi,\n\n\nYour Feedback Livetalk! I would like to give you some feedback:"
+    "email_id": "yoyolive.llc@gmail.com",
+    "feedback_title": "Feedback on YOYO Live",
+    "feedback_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:",
+    "email_subject": "Feedback on YOYO Live",
+    "email_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:"
     }
   }
 }

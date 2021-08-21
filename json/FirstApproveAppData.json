@@ -406,6 +406,8 @@
     "percentage_of_live_call": 100,
     "possible_percentage_server_side": 100,
     "live_call_duration_seconds": 200,
+    "black_overlay_percentage_on_fake": 50,
+    "black_overlay_fake_video_volume": 1,
     "call_timeout_offer_dialog": {
       "is_show": false,
       "is_show_every_time": false,

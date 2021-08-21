@@ -177,19 +177,19 @@
         "is_override": false,
         "is_official_website": false,
         "is_system_browser": false,
-        "official_website": "http://www.yoyolivellc.com"
+        "official_website": "https://yoyolive.github.io"
       },
       "Privacy_Policy": {
         "is_override": false,
         "is_privacy_policy": true,
         "is_system_browser": true,
-        "privacy_policy": "https://sites.google.com/view/yoyolive-llc/privacy-policy"
+        "privacy_policy": "https://yoyolive.github.io/privacy-policy.html"
       },
       "Terms_Of_Use": {
         "is_override": false,
         "is_terms_of_use": true,
         "is_system_browser": true,
-        "terms_of_use": "https://sites.google.com/view/yoyolive-llc/tc"
+        "terms_of_use": "https://yoyolive.github.io/tc.html"
       },
       "Splash_Screen": {
         "is_override": false,

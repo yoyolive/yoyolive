@@ -94,15 +94,15 @@
         "is_override": false,
         "is_popup_dialog": false,
         "is_update_require": false,
-        "package_id": "com.livetalk.llc",
+        "package_id": "com.yoyolive.llc",
         "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
         "website_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
         "is_system_browser": true,
-        "updated_version_code": 4,
-        "filename": "livetalk.apk",
+        "updated_version_code": 1,
+        "filename": "yoyolive.apk",
         "title": "App Update",
         "default_message": "Your App is Up to date.",
-        "log_message": "- Now latest LiveTalk you have",
+        "log_message": "- Now latest YOYO Live you have",
         "downloading_message": "App Downloading",
         "installing_message": "App Install"
       },
@@ -113,8 +113,8 @@
         "mode": "web_and_video",
         "is_system_browser": true,
         "banner_url": "http://www.sixboxes.com/_customelements/uploadedResources/085624_community.jpg",
-        "full_title": "LiveTalk - Group (OFFICIAL)",
-        "description": "Here all LiveTalk user can communicate and chat with other. So that you have to download TELEGRAM and join LiveTalk (OFFICIAL) group.",
+        "full_title": "YOYO Live - Group (OFFICIAL)",
+        "description": "Here all YOYO Live user can communicate and chat with other. So that you have to download TELEGRAM and join YOYO Live (OFFICIAL) group.",
         "website_url": "https://t.me/joinchat/JOQ_XRbkuW3hZbj1N-YLmQ",
         "thumbnail_url": "http://www.arenawp.com/wp-content/uploads/mo/thumb-monochrome-round-user-group-icon-vector.jpg"
       },
@@ -122,7 +122,7 @@
         "is_override": false,
         "is_about_app": true,
         "about_title": "About",
-        "about_message": "LiveTalk is about to random calling app."
+        "about_message": "YOYO Live is about to random calling app."
       },
       "Exit_Dialog": {
         "is_override": false,
@@ -132,13 +132,13 @@
       "Rate_App": {
         "is_override": false,
         "is_rate_app": true,
-        "package_id": "com.livetalk.llc",
-        "rate_app_url": "https://play.google.com/store/apps/details?id=com.livetalk.llc",
+        "package_id": "com.yoyolive.llc",
+        "rate_app_url": "https://play.google.com/store/apps/details?id=com.yoyolive.llc",
         "rate_message": "Please Rate us and promote us."
       },
       "App_Settings": {
         "is_override": false,
-        "app_name": "livetalk",
+        "app_name": "YOYO",
         "server_address": "52.66.251.119",
         "port": 8086,
         "call_type": "live",
@@ -164,55 +164,55 @@
       "More_Apps": {
         "is_override": false,
         "is_more_app": false,
-        "developer_id": "LiveTalk+LLC+™",
-        "more_app_url": "https://play.google.com/store/apps/developer?id=LiveTalk+LLC+%E2%84%A2"
+        "developer_id": "YOYOLive+LLC+™",
+        "more_app_url": "https://play.google.com/store/apps/developer?id=YOYOLive+LLC+%E2%84%A2"
       },
       "Share_App": {
         "is_override": false,
         "is_share_app": true,
-        "share_message_app": "Discover new people and connect to them through live talk by download LiveTalk app from : https://play.google.com/store/apps/details?id=com.livetalk.llc",
+        "share_message_app": "Discover new people and connect to them through live talk by download YOYO Live app from : https://play.google.com/store/apps/details?id=com.yoyolive.llc",
         "share_message_link": "Share link url : "
       },
       "Official_Website": {
         "is_override": false,
         "is_official_website": false,
         "is_system_browser": false,
-        "official_website": "http://www.livetalkllc.com"
+        "official_website": "http://www.yoyolivellc.com"
       },
       "Privacy_Policy": {
         "is_override": false,
         "is_privacy_policy": true,
         "is_system_browser": true,
-        "privacy_policy": "https://sites.google.com/view/livetalk-llc/privacy-policy"
+        "privacy_policy": "https://sites.google.com/view/yoyolive-llc/privacy-policy"
       },
       "Terms_Of_Use": {
         "is_override": false,
         "is_terms_of_use": true,
         "is_system_browser": true,
-        "terms_of_use": "https://sites.google.com/view/livetalk-llc/tc"
+        "terms_of_use": "https://sites.google.com/view/yoyolive-llc/tc"
       },
       "Splash_Screen": {
         "is_override": false,
         "registration_detail1": "",
-        "registration_detail": "LiveTalk LLC.® 2020",
-        "version_detail": "version : 4.0.0"
+        "registration_detail": "YOYO Live LLC.® 2021",
+        "version_detail": "version : 1.0.0"
       },
       "Error_Report_Support": {
         "is_override": false,
         "is_error_report": true,
         "cc_email_id": "",
-        "email_id": "livetalk.llc@gmail.com"
+        "email_id": "yoyolive.llc@gmail.com"
       },
         "Feedback_Support":
         {
             "is_override" : false,
             "is_feedback" : true,
             "cc_email_id": "",
-            "email_id": "livetalk.llc@gmail.com",
-            "feedback_title": "Feedback on Livetalk",
-            "feedback_message": "Hi,\n\n\nYour Feedback Livetalk! I would like to give you some feedback:",
-            "email_subject": "Feedback on Livetalk",
-            "email_message": "Hi,\n\n\nYour Feedback Livetalk! I would like to give you some feedback:"
+            "email_id": "yoyolive.llc@gmail.com",
+            "feedback_title": "Feedback on YOYO Live",
+            "feedback_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:",
+            "email_subject": "Feedback on YOYO Live",
+            "email_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:"
         }
         
     }

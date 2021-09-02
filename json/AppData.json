@@ -8,7 +8,7 @@
         "spam_user_ids_limit":10,
         "socket_server_address":"http://35.154.22.231:5000",
         "is_random_self_id": false,
-        "live_call_duration_seconds":60,
+        "live_call_duration_seconds":200,
         "video_call_config":{
          "is_audio_only": false,
          "is_audio_muted": false,

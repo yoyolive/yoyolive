@@ -4,8 +4,8 @@
       "is_override": false,
       "ads_loading_text": "Ads will loading...",
       "ads_loading_delay": 1000,
-      "is_banner_ads": true,
-      "is_interstitial_ads": true,
+      "is_banner_ads": false,
+      "is_interstitial_ads": false,
       "google_ads": {
         "ads_app_id_ios": "ca-app-pub-3940256099942544~1458002511",
         "ads_app_id_android": "ca-app-pub-4742103267207120~5926744054",
@@ -13,22 +13,22 @@
         "banner_ad_unit_id_android": "ca-app-pub-4742103267207120/8282262895",
         "interstitial_ad_unit_id_ios": "/6499/example/interstitial",
         "interstitial_ad_unit_id_android": "ca-app-pub-4742103267207120/4334939710",
-        "is_banner_ads": true,
-        "is_interstitial_ads": true,
-        "visibility_percentage": 50
+        "is_banner_ads": false,
+        "is_interstitial_ads": false,
+        "visibility_percentage": 0
       },
       "unity_ads": {
         "ads_app_id_ios": "4621410",
         "ads_app_id_android": "4621411",
-        "is_banner_ads": true,
-        "is_interstitial_ads": true,
-        "visibility_percentage": 50
+        "is_banner_ads": false,
+        "is_interstitial_ads": false,
+        "visibility_percentage": 0
       },
       "custom_ads": {
         "is_ads": false,
         "is_banner_ads": false,
         "is_interstitial_ads": false,
-        "visibility_percentage": 2,
+        "visibility_percentage": 0,
         "banner_ads_url": "https://banner-ad.herokuapp.com/admob",
         "interstitial_ads_url": "https://banner-ad.herokuapp.com/interstitial"
       }

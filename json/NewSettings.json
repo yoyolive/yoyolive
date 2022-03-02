@@ -25,12 +25,12 @@
         "visibility_percentage": 50
       },
       "custom_ads": {
-        "is_ads": false,
-        "is_banner_ads": false,
+        "is_ads": true,
+        "is_banner_ads": true,
         "is_interstitial_ads": false,
         "visibility_percentage": 2,
-        "banner_ads_url": "https://banner-ad.herokuapp.com/admob",
-        "interstitial_ads_url": "https://banner-ad.herokuapp.com/interstitial"
+        "banner_ads_url": "https://bitcoding-ad-manager.herokuapp.com/banner_ad/",
+        "interstitial_ads_url": "https://bitcoding-ad-manager.herokuapp.com/interstitial_ad/"
       }
     },
     "App_Update_Information": {

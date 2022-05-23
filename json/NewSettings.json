@@ -13,16 +13,16 @@
         "banner_ad_unit_id_android": "/112517806,22698323866/1421647834995",
         "interstitial_ad_unit_id_ios": "/6499/example/interstitial",
         "interstitial_ad_unit_id_android": "/112517806,22698323866/3101647835066",
-        "is_banner_ads": true,
-        "is_interstitial_ads": true,
-        "visibility_percentage": 100
+        "is_banner_ads": false,
+        "is_interstitial_ads": false,
+        "visibility_percentage": 0
       },
       "unity_ads": {
         "ads_app_id_ios": "4621410",
         "ads_app_id_android": "4621411",
         "is_banner_ads": true,
         "is_interstitial_ads": true,
-        "visibility_percentage": 2
+        "visibility_percentage": 80
       },
       "custom_ads": {
         "is_ads": true,

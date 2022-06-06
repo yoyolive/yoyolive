@@ -15,7 +15,7 @@
         "interstitial_ad_unit_id_android": "ca-app-pub-4742103267207120/4334939710",
         "is_banner_ads": true,
         "is_interstitial_ads": true,
-        "visibility_percentage": 1000
+        "visibility_percentage": 100
       },
       "unity_ads": {
         "ads_app_id_ios": "4766654",

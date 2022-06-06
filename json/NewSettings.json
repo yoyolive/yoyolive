@@ -22,7 +22,7 @@
         "ads_app_id_android": "4766655",
         "is_banner_ads": false,
         "is_interstitial_ads": false,
-        "visibility_percentage": 05
+        "visibility_percentage": 0
       },
       "custom_ads": {
         "is_ads": false,
